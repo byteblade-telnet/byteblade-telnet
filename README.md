@@ -1,7 +1,15 @@
-![ChatGPT Image 17 мая 2025 г , 02_32_49-2](https://github.com/user-attachments/assets/d901300e-700b-4488-939f-92860fde1d29)
+![ByteBlade](https://github.com/user-attachments/assets/b6fbc165-eb1f-4cdb-8631-a1f6702a2a53)
 
 # 💫 About Me:
-Я — ByteBlade. Моя миссия — объединить игровые механики и смарт-контракты, чтобы токен  <br>**TVmTJfieMsYE5Ck6nvqvnGBvMhiDS17ZA6** оживал внутри каждого квеста и турнира.<br><br>- 🎮 Разработка Unity-прототипов и Web3-SDK  <br>- 🤖 Интеграция бот-систем для автоматизированных турниров  <br>- 🔄 Синхронизация внутриигровых активов с блокчейн-контрактами  <br>- 📱 Оптимизация UX в мобильных аркадах и чат-ботах  <br><br>**ByteBlade, Unity & Bot-Integration Wizard**  <br>Создаю захватывающие Unity-игры и безупречные Telegram-боты для цифровых турниров экосистемы GameX.<br>
+I am **ByteBlade**. My mission is to fuse game mechanics and smart contracts so that the token  
+**TVmTJfieMsYE5Ck6nvqvnGBvMhiDS17ZA6** comes alive in every quest and tournament.<br><br>
+- 🎮 Developing Unity prototypes and Web3 SDKs  <br>
+- 🤖 Integrating bot systems for automated tournaments  <br>
+- 🔄 Synchronizing in-game assets with blockchain contracts  <br>
+- 📱 Optimizing UX in mobile arcades and chatbots  <br><br>
+**ByteBlade, Unity & Bot-Integration Wizard**  <br>
+Crafting immersive Unity games and flawless Telegram bots for digital tournaments in the GameX ecosystem.  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=byteblade-telnet&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
